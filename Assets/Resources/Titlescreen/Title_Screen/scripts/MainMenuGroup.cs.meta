@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ff4cab7674a0aed49b978282eb30ae4f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tabIdle: {fileID: 21300000, guid: db09deedbb424584aa61914c3608a90b, type: 3}
+  - tabHover: {fileID: 21300000, guid: 3c05e8746ca9c604897b573c7128fee5, type: 3}
+  - tabActive: {fileID: 21300000, guid: 62757380b30f1654da50edfcb719a132, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

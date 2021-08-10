@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Clovers Back
+  m_Shader: {fileID: 4800000, guid: 020241b67c97be24c879437ff64b8ef7, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2999
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Clovers:
+        m_Texture: {fileID: 2800000, guid: 2de09e69f66465e4892b0d1d11c4acfe, type: 3}
+        m_Scale: {x: 3, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CloversGlow:
+        m_Texture: {fileID: 2800000, guid: c7cd8941b35ac4246be5ebf2403712be, type: 3}
+        m_Scale: {x: 3, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Wind:
+        m_Texture: {fileID: 2800000, guid: fc1e985165052c84cb87c016ce9d63b1, type: 3}
+        m_Scale: {x: 1, y: 0.1}
+        m_Offset: {x: 0, y: 0}
+    - _node_2031:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Cutoff: 0.5
+    m_Colors: []

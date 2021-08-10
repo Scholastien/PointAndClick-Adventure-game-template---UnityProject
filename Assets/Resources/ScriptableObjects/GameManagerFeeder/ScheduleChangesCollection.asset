@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5811a25d6263bdf4ba4ce51ef6e105bc, type: 3}
+  m_Name: ScheduleChangesCollection
+  m_EditorClassIdentifier: 
+  allScheduleChanges:
+  - {fileID: 11400000, guid: 4fe8cc3a232ddb1479704e64b60e3d5c, type: 2}
+  - {fileID: 11400000, guid: 3151e9ee4d344bb4da44046a8009ed0f, type: 2}

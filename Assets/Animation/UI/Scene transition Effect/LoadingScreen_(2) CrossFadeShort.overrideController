@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LoadingScreen_(2) CrossFadeShort
+  m_Controller: {fileID: 9100000, guid: 4906164dbd951644e8585fc21c648f49, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 28e52e5b85391d440818b5af8cb940b8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 463bd710313c4f144a469f13e0c1ea7b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c8061c088fb849a4ebede32c7a554496, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: afccbd756b333dc4fbbc391a5da7bef9, type: 2}

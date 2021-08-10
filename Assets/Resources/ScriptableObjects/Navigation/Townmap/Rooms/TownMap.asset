@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef6f0610769283245832d02122245798, type: 3}
+  m_Name: TownMap
+  m_EditorClassIdentifier: 
+  name: TownMap
+  displayName: Town map
+  navIcon: {fileID: 21300000, guid: 3e0dc011f157a804ea6004811c9c383a, type: 3}
+  locked: 0
+  daytimeSpriteVariation:
+  - begin: 0
+    end: 7
+    sprite: {fileID: 21300000, guid: 2880623ccac6a7746893fc9e6662acaf, type: 3}

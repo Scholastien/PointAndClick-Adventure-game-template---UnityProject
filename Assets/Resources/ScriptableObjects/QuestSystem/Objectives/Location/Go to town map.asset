@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3282616023599094c9b8a7cb0f27ae0f, type: 3}
+  m_Name: Go to town map
+  m_EditorClassIdentifier: 
+  title: Go To TownMap
+  description: Go in town
+  isComplete: 0
+  isBonus: 0
+  targetRoom: {fileID: 11400000, guid: 7e4b9f14008cccb44a2fbf4cf686d6d3, type: 2}
